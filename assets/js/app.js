@@ -5,7 +5,7 @@ function mostrarSaludo() {
     hora = fecha.getHours();
 
     if (hora >= 0 && hora < 12) {
-        texto = "Buenos DÃ­as";
+        texto = "Buenos Di­as";
         imagen = "https://nubecolectiva.com/img/dia.png";
     }
 
